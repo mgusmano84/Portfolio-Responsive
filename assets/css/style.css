@@ -250,6 +250,7 @@ input[type=submit] {
 }
 /*Responsive */
 
+
 @media screen and (max-width: 980px){
 	.container {width: 80%
 	}
@@ -257,7 +258,7 @@ input[type=submit] {
 	.main-section {width: 45%;
 		margin-left: 10%;
 	}
-	.sidebar {margin-right: 5%}
+	.sidebar {margin-right: -2%;}
 	.auth-image {width: 100%;
 		margin-bottom: 10px;
 	}
@@ -281,7 +282,6 @@ input[type=submit] {
 		margin-bottom: 10px;
 	}
 	#logo {margin-left: 32px;}
-
 
 
 }
