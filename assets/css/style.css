@@ -310,8 +310,10 @@ input[type=submit] {
 	.work {width: 100%;
 	}
 	nav { width: 100%;
+		text-align: center;
 	}
-	a {width: 30%;
+	a {width: 20%;
+		text-align: center;
 	}
 
 	
