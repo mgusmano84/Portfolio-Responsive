@@ -100,7 +100,7 @@ h3 {
 	line-height: 90px;
 	color: #fff;
 	font-weight: 700;
-	font-size: 30px;
+	font-size: 25px;
 	text-decoration: none;
 }
 nav {
@@ -262,9 +262,12 @@ input[type=submit] {
 	.auth-image {width: 100%;
 		margin-bottom: 10px;
 	}
-	#logo {line-height: 40px;
-		margin-left: 80px;
+	#logo {margin-left: 80px;
+		font-size: 23px;
+
 	}
+	
+
 
 }
 
@@ -294,6 +297,7 @@ input[type=submit] {
 	#logo {width: 100%;
 		padding-top: 20px;
 		margin-left: 0px;
+		font-size: 30px;
 	}
 	.container {width: 100%
 	}	
@@ -311,6 +315,8 @@ input[type=submit] {
 	}
 	nav { width: 100%;
 		text-align: center;
+		padding-right: 28px;
+		
 	}
 	a {
 		text-align: center;
