@@ -280,7 +280,8 @@ input[type=submit] {
 		margin-right: 30px;
 		margin-top: 20px;
 	}
-	.sidebar {max-width: 91%;}
+	.sidebar {max-width: 91%;
+	}
 	.auth-image {width: 45%;
 		margin-bottom: 10px;
 	}
@@ -292,7 +293,7 @@ input[type=submit] {
 @media screen and (max-width: 640px) {
 	#masthead {position: static;
 		overflow: hidden;
-			}
+	}
 
 	#logo {width: 100%;
 		padding-top: 20px;
@@ -301,7 +302,8 @@ input[type=submit] {
 	}
 	.container {width: 100%
 	}	
-	#main-container {padding-top: 5px}
+	#main-container {padding-top: 5px
+	}
 	.main-section {margin-left: 5px;	
 		margin-top: 10px;
 	}
@@ -315,8 +317,7 @@ input[type=submit] {
 	}
 	nav { width: 100%;
 		text-align: center;
-		padding-right: 28px;
-		
+		padding-right: 28px;	
 	}
 	a {
 		text-align: center;
